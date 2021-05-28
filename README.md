@@ -46,17 +46,15 @@ Here are some ideas to get you started:
 
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mamtalohani&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamtalohani&theme=buefy&layout=compact" />
+<a href="https://github.com/mamtalohani">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mamtalohani&theme=buefy&show_icons=true&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamtalohani&theme=buefy&show_icons=true&layout=compact" />
 </a>
 
 <br/>
 
 <p align="center">
-  <img alt="HitCount" src="http://hits.dwyl.com/mamtalohani/mamtalohani.svg" />
   <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=mamtalohani.mamtalohani" />
-  <!-- https://github.com/wesky93/views this is a clone of the hits -->
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/mamtalohani/mamtalohani.svg" />
 </p>
 
