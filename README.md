@@ -7,10 +7,13 @@ Here are some ideas to get you started:
 -->
 
 <!-- Social links -->
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
 <p align='center'>
-  <a href="https://www.linkedin.com/in/mamtalohani/"><img height="30" src="https://github.com/mamtalohani/mamtalohani/blob/main/resources/linkedin.png?raw=true"></a> 
-  <a href="mailto:mamta.lohani@gmail.com"><img height="30" src="https://github.com/mamtalohani/mamtalohani/blob/main/resources/gmail.png?raw=true"></a> - 
-  <a href="https://twitter.com/mamtalohani"><img height="30" src="https://github.com/mamtalohani/mamtalohani/blob/main/resources/twitter.png?raw=true"></a>
+  <a href="https://www.linkedin.com/in/mamtalohani/"><img height="20" src="https://img.shields.io/badge/LinkedIn-Mamta%20Lohani-blue?style=flat-square&logo=linkedin"></a> 
+  <a href="mailto:mamta.lohani@gmail.com"><img height="20" src="https://img.shields.io/badge/Gmail-Mamta%20Lohani-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://twitter.com/mamtalohani"><img height="20" src="https://img.shields.io/badge/Twitter-Mamta%20Lohani-blue?style=flat-square&logo=twitter"></a>
+  <a href="https://www.instagram.com/mamta.lohani/"><img height="20" src="https://img.shields.io/badge/Instagram-Mamta%20Lohani-blue?style=flat-square&logo=instagram"></a>
 <!--   <br>![Mamta's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamtalohani&show_icons=true&theme=radical) -->
 </p>
 
@@ -19,7 +22,7 @@ Here are some ideas to get you started:
 ### 👨🏻‍💻 &nbsp;About Me 
  
  - 🤔 &nbsp; Exploring & Learning new technologies and developing software solutions.
- - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
+ - 💼 &nbsp; Working as a Tech Lead  at VirtuBox NIIT Tech.
  - 🌱 I’m currently learning Data Science and machine learning
  - 🎓 &nbsp; MCA & BA (Maths) from Kumaun University, Nainital, India.
  
@@ -41,3 +44,21 @@ Here are some ideas to get you started:
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 
+<br/>
+
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mamtalohani&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamtalohani&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+
+<p align="center">
+  <img alt="HitCount" src="http://hits.dwyl.com/mamtalohani/mamtalohani.svg" />
+  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=mamtalohani.mamtalohani" />
+  <!-- https://github.com/wesky93/views this is a clone of the hits -->
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/mamtalohani/mamtalohani.svg" />
+</p>
+
+
+⭐️ From [mamtalohani](https://github.com/mamtalohani)
